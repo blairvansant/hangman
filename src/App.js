@@ -14,6 +14,9 @@ import WrongLetters from './components/WrongLetters';
 import Word from './components/Word';
 import Popup from './components/Popup';
 import Notification from './components/Notification';
+import './App.css';
+
+
 
 const words = ['application', 'programming', 'interface', 'wizard'];
 let selectedWord = words[Math.floor(Math.random() * words.length)];
