@@ -1,3 +1,9 @@
+# Hangman
+
+## A guessing game as old as time itself
+
+Player enters letters guessing at the hidden word. Each wrong letter results in a limb being drawn on the man. After 6 guesses, the game is over.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
